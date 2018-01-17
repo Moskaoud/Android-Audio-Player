@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مشغل الصوت</string>
+    <string name="Play">تشغيل</string>
+    <string name="Pause">ايقاف</string>
+    <string name="mute">ايقاف الصوت</string>
+</resources>
